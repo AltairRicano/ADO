@@ -1,0 +1,12 @@
+salida,llegada,origen,destino,precio,marca,_status
+10:30,15:10,Oaxaca,Puebla CAPU,824,ADO,ok
+12:00,16:40,Oaxaca,Puebla CAPU,824,ADO,ok
+13:30,18:10,Oaxaca,Puebla CAPU,824,ADO,ok
+13:30,18:45,Oaxaca,Paseo destino,824,ADO,ok
+15:30,20:10,Oaxaca,Puebla CAPU,1194,ADO platino,ok
+15:30,20:45,Oaxaca,Paseo destino,1194,ADO Platino,ok
+17:30,22:10,Oaxaca,Puebla CAPU,824,ADO,ok
+20:00,00:40,Oaxaca,Puebla CAPU,824,ADO,ok
+23:30,04:10,Oaxaca,Puebla CAPU,824,ADO,ok
+23:30,04:45,Oaxaca,Paseo destino,824,ADO,ok
+23:59,04:39,Oaxaca,Puebla CAPU,824,ADO,ok

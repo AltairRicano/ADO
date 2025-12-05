@@ -1,0 +1,1101 @@
+{
+  "id": "3v8uppvvu9",
+  "results": {
+    "items": [
+      {
+        "origen": "Ciudad de México",
+        "destino": "Veracruz",
+        "salida": null,
+        "llegada": null,
+        "_confidence": 30
+      },
+      {
+        "origen": "Mérida",
+        "destino": "Villahermosa",
+        "salida": null,
+        "llegada": null,
+        "_confidence": 20
+      },
+      {
+        "origen": "Ciudad de México",
+        "destino": "Oaxaca",
+        "salida": null,
+        "llegada": null,
+        "_confidence": 40
+      },
+      {
+        "origen": null,
+        "destino": null,
+        "salida": null,
+        "llegada": null,
+        "_confidence": 1
+      },
+      {
+        "origen": "CDMX",
+        "destino": "Oaxaca",
+        "salida": null,
+        "llegada": null,
+        "_confidence": 30
+      },
+      {
+        "origen": "CDMX",
+        "destino": "Veracruz",
+        "salida": null,
+        "llegada": null,
+        "_confidence": 45
+      },
+      {
+        "origen": null,
+        "destino": null,
+        "salida": null,
+        "llegada": null,
+        "_confidence": 1
+      },
+      {
+        "origen": null,
+        "destino": null,
+        "salida": null,
+        "llegada": null,
+        "_confidence": 5
+      },
+      {
+        "origen": "CDMX",
+        "destino": "Veracruz",
+        "salida": null,
+        "llegada": null,
+        "_confidence": 35
+      },
+      {
+        "origen": null,
+        "destino": null,
+        "salida": null,
+        "llegada": null,
+        "_confidence": 1
+      }
+    ]
+  }
+}
+
+{
+  "id": "527774987v",
+  "results": {
+    "items": [
+      {
+        "salida": "10:00",
+        "llegada": "17:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "11:00",
+        "llegada": "18:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "12:00",
+        "llegada": "19:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "12:30",
+        "llegada": "19:25",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "14:30",
+        "llegada": "21:25",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "14:30",
+        "llegada": "22:15",
+        "origen": "Oaxaca",
+        "destino": "Ejecutiva del sur",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "14:30",
+        "llegada": "21:30",
+        "origen": "Oaxaca",
+        "destino": "México TAPO Lujo",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "15:30",
+        "llegada": "22:30",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "17:00",
+        "llegada": "00:50",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "17:00",
+        "llegada": "00:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "21:00",
+        "llegada": "04:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "21:00",
+        "llegada": "04:30",
+        "origen": "Oaxaca",
+        "destino": "Aeropuerto llegadas Nal",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "21:00",
+        "llegada": "04:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO Lujo",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "21:00",
+        "llegada": "04:45",
+        "origen": "Oaxaca",
+        "destino": "Ejecutiva del sur",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "21:15",
+        "llegada": "04:10",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "21:30",
+        "llegada": "04:30",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "22:00",
+        "llegada": "05:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "22:00",
+        "llegada": "05:45",
+        "origen": "Oaxaca",
+        "destino": "Ejecutiva del sur",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "22:00",
+        "llegada": "05:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO Lujo",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "22:15",
+        "llegada": "05:10",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "22:30",
+        "llegada": "05:30",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "22:30",
+        "llegada": "05:30",
+        "origen": "Oaxaca",
+        "destino": "México TAPO Lujo",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "22:45",
+        "llegada": "05:40",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:00",
+        "llegada": "05:55",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:00",
+        "llegada": "05:35",
+        "origen": "Oaxaca",
+        "destino": "México Taxqueña",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:00",
+        "llegada": "06:00",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:15",
+        "llegada": "06:15",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:15",
+        "llegada": "06:15",
+        "origen": "Oaxaca",
+        "destino": "México TAPO Lujo",
+        "precio": "1470",
+        "marca": "ADO Platino"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "06:30",
+        "origen": "Oaxaca",
+        "destino": "México TAPO Lujo",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "06:30",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:45",
+        "llegada": "06:40",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "1210",
+        "marca": "ADO gl"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "07:44",
+        "origen": "Oaxaca",
+        "destino": "Ejecutiva del sur",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "06:59",
+        "origen": "Oaxaca",
+        "destino": "México TAPO Lujo",
+        "precio": "1470",
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "06:59",
+        "origen": "Oaxaca",
+        "destino": "México TAPO",
+        "precio": "966",
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "06:54",
+        "origen": "Oaxaca",
+        "destino": "Central México Norte",
+        "precio": "966",
+        "marca": "ADO"
+      }
+    ]
+  }
+}
+
+{
+  "id": "uglqbkvj3o",
+  "results": {
+    "items": [
+      {
+        "salida": "10:30",
+        "llegada": "15:10",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "12:00",
+        "llegada": "16:40",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "13:30",
+        "llegada": "18:10",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "13:30",
+        "llegada": "18:45",
+        "origen": "Oaxaca",
+        "destino": "Paseo destino",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "15:30",
+        "llegada": "20:10",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 1194,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "15:30",
+        "llegada": "20:45",
+        "origen": "Oaxaca",
+        "destino": "Paseo destino",
+        "precio": 1194,
+        "marca": "ADO Platino"
+      },
+      {
+        "salida": "17:30",
+        "llegada": "22:10",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "20:00",
+        "llegada": "00:40",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "04:10",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "04:45",
+        "origen": "Oaxaca",
+        "destino": "Paseo destino",
+        "precio": 824,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "04:39",
+        "origen": "Oaxaca",
+        "destino": "Puebla CAPU",
+        "precio": 824,
+        "marca": "ADO"
+      }
+    ]
+  }
+}
+
+{
+  "id": "0g9fkfk2ko",
+  "results": {
+    "items": [
+      {
+        "salida": "10:15",
+        "llegada": "11:45",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC"
+      },
+      {
+        "salida": "10:40",
+        "llegada": "11:55",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "12:30",
+        "llegada": "13:45",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "13:20",
+        "llegada": "14:29",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC OTS"
+      },
+      {
+        "salida": "13:35",
+        "llegada": "15:05",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "ADO Express"
+      },
+      {
+        "salida": "14:25",
+        "llegada": "15:40",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "14:28",
+        "llegada": "15:37",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "ADO aeropuerto"
+      },
+      {
+        "salida": "15:20",
+        "llegada": "16:50",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC OTS"
+      },
+      {
+        "salida": "15:45",
+        "llegada": "17:00",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "16:15",
+        "llegada": "17:30",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "OCC"
+      },
+      {
+        "salida": "16:35",
+        "llegada": "18:05",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "ADO aeropuerto"
+      },
+      {
+        "salida": "16:55",
+        "llegada": "18:25",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC OTS"
+      },
+      {
+        "salida": "17:00",
+        "llegada": "18:09",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC OTS"
+      },
+      {
+        "salida": "17:35",
+        "llegada": "19:05",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "ADO aeropuerto"
+      },
+      {
+        "salida": "17:55",
+        "llegada": "19:10",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "18:30",
+        "llegada": "19:45",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "OCC"
+      },
+      {
+        "salida": "18:40",
+        "llegada": "19:49",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC OTS"
+      },
+      {
+        "salida": "19:30",
+        "llegada": "20:45",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "21:30",
+        "llegada": "22:45",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "21:55",
+        "llegada": "23:25",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC OTS"
+      },
+      {
+        "salida": "22:35",
+        "llegada": "00:05",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 60,
+        "marca": "OCC OTS"
+      },
+      {
+        "salida": "23:35",
+        "llegada": "00:50",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "23:40",
+        "llegada": "00:55",
+        "origen": "Tuxtla Gutiérrez",
+        "destino": "San Cristóbal de las casas",
+        "precio": 82,
+        "marca": "ADO PUNTO"
+      },
+      {
+        "salida": "12:00",
+        "llegada": "16:25",
+        "origen": "México TAPO",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      },
+      {
+        "salida": "14:30",
+        "llegada": "19:15",
+        "origen": "Central México Norte",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      },
+      {
+        "salida": "15:30",
+        "llegada": "20:20",
+        "origen": "México TAPO",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      },
+      {
+        "salida": "17:30",
+        "llegada": "23:30",
+        "origen": "Central México Norte",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      },
+      {
+        "salida": "18:30",
+        "llegada": "23:30",
+        "origen": "México TAPO",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      },
+      {
+        "salida": "20:30",
+        "llegada": "00:25",
+        "origen": "México TAPO",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      },
+      {
+        "salida": "20:30",
+        "llegada": "00:30",
+        "origen": "Central México Norte",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "03:05",
+        "origen": "México TAPO",
+        "destino": "Cancún",
+        "precio": 2306,
+        "marca": "ADO"
+      }
+    ]
+  }
+}
+
+{
+  "id": "s9m74mydm8",
+  "results": {
+    "items": [
+      {
+        "salida": "10:00",
+        "llegada": "17:10",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 540,
+        "marca": "AU"
+      },
+      {
+        "salida": "10:30",
+        "llegada": "17:10",
+        "origen": null,
+        "destino": "Veracruz",
+        "precio": 950,
+        "marca": "ADO GL"
+      },
+      {
+        "salida": "10:30",
+        "llegada": "16:10",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 791,
+        "marca": "ADO GL"
+      },
+      {
+        "salida": "11:15",
+        "llegada": "18:30",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 802,
+        "marca": "AU"
+      },
+      {
+        "salida": "11:30",
+        "llegada": "17:10",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 950,
+        "marca": "ADO GL"
+      },
+      {
+        "salida": "11:55",
+        "llegada": "17:45",
+        "origen": "Central México Norte",
+        "destino": "Veracruz",
+        "precio": 1154,
+        "marca": "ADO GL"
+      },
+      {
+        "salida": "12:15",
+        "llegada": "19:40",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 802,
+        "marca": "AU"
+      },
+      {
+        "salida": "12:30",
+        "llegada": "18:10",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 968,
+        "marca": "ADO"
+      },
+      {
+        "salida": "12:45",
+        "llegada": "19:40",
+        "origen": "Terrapuerto el Ángel",
+        "destino": "Veracruz",
+        "precio": 968,
+        "marca": "ADO"
+      },
+      {
+        "salida": "13:15",
+        "llegada": "20:35",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 426,
+        "marca": "AU"
+      },
+      {
+        "salida": "13:30",
+        "llegada": "19:10",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO Platino"
+      },
+      {
+        "salida": "14:00",
+        "llegada": "19:40",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 968,
+        "marca": "ADO"
+      },
+      {
+        "salida": "14:15",
+        "llegada": "21:30",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 802,
+        "marca": "AU"
+      },
+      {
+        "salida": "14:30",
+        "llegada": "20:10",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO Platino"
+      },
+      {
+        "salida": "15:15",
+        "llegada": "22:30",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 433,
+        "marca": "AU"
+      },
+      {
+        "salida": "15:30",
+        "llegada": "22:10",
+        "origen": "Ejecutiva del sur",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "15:30",
+        "llegada": "21:10",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 632,
+        "marca": "ADO"
+      },
+      {
+        "salida": "16:00",
+        "llegada": "22:40",
+        "origen": "Ejecutiva del sur",
+        "destino": "Veracruz",
+        "precio": 1273,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "16:00",
+        "llegada": "21:40",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 605,
+        "marca": "ADO"
+      },
+      {
+        "salida": "16:30",
+        "llegada": "22:10",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "17:00",
+        "llegada": "22:40",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1204,
+        "marca": "ADO Platino"
+      },
+      {
+        "salida": "17:15",
+        "llegada": "01:05",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 463,
+        "marca": "AU"
+      },
+      {
+        "salida": "17:30",
+        "llegada": "00:25",
+        "origen": "Ciudad de México",
+        "destino": "Veracruz",
+        "precio": 698,
+        "marca": "ADO"
+      },
+      {
+        "salida": "17:30",
+        "llegada": "23:10",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 632,
+        "marca": "ADO"
+      },
+      {
+        "salida": "17:40",
+        "llegada": "23:30",
+        "origen": "Central México Norte",
+        "destino": "Veracruz",
+        "precio": 968,
+        "marca": "ADO"
+      },
+      {
+        "salida": "18:25",
+        "llegada": "01:05",
+        "origen": "Santa Martha Acatitla",
+        "destino": "Veracruz",
+        "precio": 463,
+        "marca": "AU"
+      },
+      {
+        "salida": "18:45",
+        "llegada": "00:25",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 698,
+        "marca": "ADO"
+      },
+      {
+        "salida": "20:00",
+        "llegada": "01:40",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1108,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "20:15",
+        "llegada": "03:30",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 466,
+        "marca": "AU"
+      },
+      {
+        "salida": "21:00",
+        "llegada": "02:40",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 728,
+        "marca": "ADO"
+      },
+      {
+        "salida": "21:45",
+        "llegada": "04:25",
+        "origen": null,
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "22:15",
+        "llegada": "05:35",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 802,
+        "marca": "AU"
+      },
+      {
+        "salida": "22:20",
+        "llegada": "04:00",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "22:30",
+        "llegada": "05:10",
+        "origen": "Central México Norte",
+        "destino": "Veracruz",
+        "precio": 945,
+        "marca": "ADO GL"
+      },
+      {
+        "salida": "22:45",
+        "llegada": "04:25",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO Platino"
+      },
+      {
+        "salida": "22:45",
+        "llegada": "05:25",
+        "origen": "Ejecutiva del sur",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "23:15",
+        "llegada": "04:55",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 968,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "05:10",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 580,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "05:10",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1154,
+        "marca": "ADO GL"
+      },
+      {
+        "salida": "23:30",
+        "llegada": "05:20",
+        "origen": "Central México Norte",
+        "destino": "Veracruz",
+        "precio": 694,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:40",
+        "llegada": "06:55",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 721,
+        "marca": "AU"
+      },
+      {
+        "salida": "23:45",
+        "llegada": "05:25",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 628,
+        "marca": "ADO"
+      },
+      {
+        "salida": "23:45",
+        "llegada": "05:25",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO Platino"
+      },
+      {
+        "salida": "23:55",
+        "llegada": "05:45",
+        "origen": "Central México Norte",
+        "destino": "Veracruz",
+        "precio": 938,
+        "marca": "ADO GL"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "07:24",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 802,
+        "marca": "AU"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "05:39",
+        "origen": "México TAPO Lujo",
+        "destino": "Veracruz",
+        "precio": 1384,
+        "marca": "ADO platino"
+      },
+      {
+        "salida": "23:59",
+        "llegada": "05:39",
+        "origen": "México TAPO",
+        "destino": "Veracruz",
+        "precio": 628,
+        "marca": "ADO"
+      }
+    ]
+  }
+}

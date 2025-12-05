@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:17-alpine
+    container_name: ado_db_server
+    restart: always
+    
+    environment:
+      POSTGRES_USER: equipo_ado
+      POSTGRES_PASSWORD: password_seguro_123
+      POSTGRES_DB: ado_produccion
+      
+    ports:
+      - "5431:5432"  # Tu puerto externo 5431 -> interno 5432
+      
+    volumes:
+      - ./ado_data:/var/lib/postgresql/data
+    
+    # 1. AUMENTAMOS LA MEMORIA COMPARTIDA (Vital para evitar crash)
+    # Le damos 2GB de memoria compartida para procesos paralelos
+    shm_size: 2g 
+
+    # 2. LÍMITES DE DOCKER (Hardware)
+    deploy:
+      resources:
+        limits:
+          memory: 8g  # Tope máximo: 8GB
+        reservations:
+          memory: 4g  # Garantizado: 4GB (para que no le roben RAM)
+
+    # 3. AFINACIÓN DE POSTGRES (Software - El Truco Pro) 
+    # Le pasamos comandos para que sepa que tiene RAM de sobra
+    command: >
+      postgres 
+      -c shared_buffers=2GB 
+      -c maintenance_work_mem=1GB 
+      -c effective_cache_size=6GB 
+      -c work_mem=64MB
+      -c max_wal_size=2GB

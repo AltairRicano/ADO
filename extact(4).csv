@@ -1,0 +1,32 @@
+salida,llegada,origen,destino,precio,marca,_status
+10:15,11:45,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC,ok
+10:40,11:55,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+12:30,13:45,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+13:20,14:29,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC OTS,ok
+13:35,15:05,Tuxtla Gutiérrez,San Cristóbal de las casas,60,ADO Express,ok
+14:25,15:40,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+14:28,15:37,Tuxtla Gutiérrez,San Cristóbal de las casas,60,ADO aeropuerto,ok
+15:20,16:50,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC OTS,ok
+15:45,17:00,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+16:15,17:30,Tuxtla Gutiérrez,San Cristóbal de las casas,82,OCC,ok
+16:35,18:05,Tuxtla Gutiérrez,San Cristóbal de las casas,60,ADO aeropuerto,ok
+16:55,18:25,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC OTS,ok
+17:00,18:09,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC OTS,ok
+17:35,19:05,Tuxtla Gutiérrez,San Cristóbal de las casas,60,ADO aeropuerto,ok
+17:55,19:10,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+18:30,19:45,Tuxtla Gutiérrez,San Cristóbal de las casas,82,OCC,ok
+18:40,19:49,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC OTS,ok
+19:30,20:45,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+21:30,22:45,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+21:55,23:25,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC OTS,ok
+22:35,00:05,Tuxtla Gutiérrez,San Cristóbal de las casas,60,OCC OTS,ok
+23:35,00:50,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+23:40,00:55,Tuxtla Gutiérrez,San Cristóbal de las casas,82,ADO PUNTO,ok
+12:00,16:25,México TAPO,Cancún,2306,ADO,ok
+14:30,19:15,Central México Norte,Cancún,2306,ADO,ok
+15:30,20:20,México TAPO,Cancún,2306,ADO,ok
+17:30,23:30,Central México Norte,Cancún,2306,ADO,ok
+18:30,23:30,México TAPO,Cancún,2306,ADO,ok
+20:30,00:25,México TAPO,Cancún,2306,ADO,ok
+20:30,00:30,Central México Norte,Cancún,2306,ADO,ok
+23:30,03:05,México TAPO,Cancún,2306,ADO,ok

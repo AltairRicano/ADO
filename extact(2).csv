@@ -1,0 +1,36 @@
+salida,llegada,origen,destino,precio,marca,_status
+10:00,17:00,Oaxaca,México TAPO,966,ADO,ok
+11:00,18:00,Oaxaca,México TAPO,966,ADO,ok
+12:00,19:00,Oaxaca,México TAPO,966,ADO,ok
+12:30,19:25,Oaxaca,Central México Norte,966,ADO,ok
+14:30,21:25,Oaxaca,Central México Norte,966,ADO,ok
+14:30,22:15,Oaxaca,Ejecutiva del sur,1470,ADO platino,ok
+14:30,21:30,Oaxaca,México TAPO Lujo,1470,ADO platino,ok
+15:30,22:30,Oaxaca,México TAPO,966,ADO,ok
+17:00,00:50,Oaxaca,Central México Norte,966,ADO,ok
+17:00,00:00,Oaxaca,México TAPO,966,ADO,ok
+21:00,04:00,Oaxaca,México TAPO,966,ADO,ok
+21:00,04:30,Oaxaca,Aeropuerto llegadas Nal,966,ADO,ok
+21:00,04:00,Oaxaca,México TAPO Lujo,1470,ADO platino,ok
+21:00,04:45,Oaxaca,Ejecutiva del sur,1470,ADO platino,ok
+21:15,04:10,Oaxaca,Central México Norte,966,ADO,ok
+21:30,04:30,Oaxaca,México TAPO,966,ADO,ok
+22:00,05:00,Oaxaca,México TAPO,966,ADO,ok
+22:00,05:45,Oaxaca,Ejecutiva del sur,1470,ADO platino,ok
+22:00,05:00,Oaxaca,México TAPO Lujo,1470,ADO platino,ok
+22:15,05:10,Oaxaca,Central México Norte,966,ADO,ok
+22:30,05:30,Oaxaca,México TAPO,966,ADO,ok
+22:30,05:30,Oaxaca,México TAPO Lujo,1470,ADO platino,ok
+22:45,05:40,Oaxaca,Central México Norte,966,ADO,ok
+23:00,05:55,Oaxaca,Central México Norte,966,ADO,ok
+23:00,05:35,Oaxaca,México Taxqueña,966,ADO,ok
+23:00,06:00,Oaxaca,México TAPO,966,ADO,ok
+23:15,06:15,Oaxaca,México TAPO,966,ADO,ok
+23:15,06:15,Oaxaca,México TAPO Lujo,1470,ADO Platino,ok
+23:30,06:30,Oaxaca,México TAPO Lujo,1470,ADO platino,ok
+23:30,06:30,Oaxaca,México TAPO,966,ADO,ok
+23:45,06:40,Oaxaca,Central México Norte,1210,ADO gl,ok
+23:59,07:44,Oaxaca,Ejecutiva del sur,1470,ADO platino,ok
+23:59,06:59,Oaxaca,México TAPO Lujo,1470,ADO platino,ok
+23:59,06:59,Oaxaca,México TAPO,966,ADO,ok
+23:59,06:54,Oaxaca,Central México Norte,966,ADO,ok
