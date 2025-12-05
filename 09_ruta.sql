@@ -55,4 +55,4 @@ INSERT INTO ruta (nombre, tipo_corrida, terminal_salida_id, terminal_llegada_id)
 ('Orizaba - Veracruz', 'de paso', 88, 94),
 ('Orizaba - Aeropuerto Veracruz', 'local', 88, 94),
 ('Orizaba - Veracruz norte', 'local', 88, 96),
-('Orizaba - Veracruz', 'Viaje local', 88, 94);
+('Orizaba - Veracruz', 'Viaje local', 88, 94)
