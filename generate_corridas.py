@@ -3,6 +3,7 @@ import sys
 import random
 from datetime import datetime, timedelta
 import time
+import os
 
 # --- Configuration ---
 START_DATE = datetime(2025, 9, 1)
@@ -10,25 +11,47 @@ TARGET_RECORDS = 300000
 OUTPUT_FILE = "generated_corridas.sql"
 SLEEP_INTERVAL_LINES = 1000  # Sleep every N lines generated
 SLEEP_DURATION = 0.05        # Seconds to sleep
+ROUTE_FILES = ['09_ruta.sql', 'generated_complex_routes.sql'] # Added ROUTE_FILES
 
 # --- Data Loading Functions ---
 
-def load_routes(filepaths):
+def load_routes():
+    """Loads routes from SQL files."""
     routes = []
-    pattern = r"\(\s*(\d+),\s*'([^']+)',"
-    
-    for filepath in filepaths:
-        try:
-            with open(filepath, 'r') as f:
-                content = f.read()
-                matches = re.findall(pattern, content)
-                for m in matches:
+    # Pattern for routes with explicit ID: (ID, 'Name', 'Type', ...)
+    pattern_explicit = r"\(\s*(\d+),\s*'([^']+)',"
+    # Pattern for routes without explicit ID: ('Name', 'Type', ...)
+    pattern_implicit = r"\(\s*'([^']+)',\s*'([^']+)',"
+
+    current_implicit_id = 1
+
+    for filepath in ROUTE_FILES:
+        if not os.path.exists(filepath):
+            print(f"Warning: {filepath} not found.")
+            continue
+            
+        with open(filepath, 'r') as f:
+            content = f.read()
+            
+            # Try explicit first
+            matches_explicit = re.findall(pattern_explicit, content)
+            if matches_explicit:
+                for m in matches_explicit:
                     routes.append({
                         'id': int(m[0]),
-                        'nombre': m[1]
+                        'name': m[1]
                     })
-        except FileNotFoundError:
-            print(f"Warning: File {filepath} not found. Skipping.")
+            else:
+                # Try implicit
+                matches_implicit = re.findall(pattern_implicit, content)
+                for m in matches_implicit:
+                    routes.append({
+                        'id': current_implicit_id,
+                        'name': m[0]
+                    })
+                    current_implicit_id += 1
+                    
+    print(f"Loaded {len(routes)} routes.")
     return routes
 
 def load_vehicles(filepath):
@@ -118,8 +141,9 @@ def estimate_duration(route_name):
 # --- Main Generation Logic ---
 
 def generate_corridas():
+    # Load Data
     print("Loading data...")
-    routes = load_routes(['09_ruta.sql', 'generated_complex_routes.sql'])
+    routes = load_routes()
     vehicles = load_vehicles('08_vehiculo.sql')
     drivers = load_drivers('05_choferes.sql')
     brands = load_brands('02_marca-amenidad.sql')
@@ -174,7 +198,7 @@ def generate_corridas():
                 minute = random.choice([0, 15, 30, 45])
                 departure_time = current_date.replace(hour=hour, minute=minute)
                 
-                duration = estimate_duration(route['nombre'])
+                duration = estimate_duration(route['name'])
                 arrival_time = departure_time + duration
                 
                 # Find available vehicle

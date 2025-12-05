@@ -1,3 +1,7 @@
+-- Generated SQL inserts for parada_cortesia table
+TRUNCATE TABLE parada_cortesia CASCADE;
+ALTER SEQUENCE parada_cortesia_cortesia_id_seq RESTART WITH 1;
+
 INSERT INTO parada_cortesia (nombre, direccion, codigo_postal, horario_apertura, horario_cierre, ruta_id) VALUES
 -- CAMPECHE
 ('Alterna galerías', 'Av. Pedro Saiz de Baranda', '02401', '09:00:00', '21:00:00', 91),
@@ -266,4 +270,4 @@ INSERT INTO parada_cortesia (nombre, direccion, codigo_postal, horario_apertura,
 ('Tekax', '57 205', '97970', '08:00:00', '20:00:00', 74),
 ('Ticul', '24 entre 25 a 25a', '97860', '08:00:00', '20:00:00', 66),
 ('Tizimín', 'Calle 46', '97700', '08:00:00', '20:00:00', 63),
-('Tzucacab', 'Centro', '', '08:00:00', '20:00:00', 118)
+('Tzucacab', 'Centro', '', '08:00:00', '20:00:00', 118);

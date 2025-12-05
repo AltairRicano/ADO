@@ -210,6 +210,7 @@ CREATE TABLE parada_cortesia(
     horario_apertura TIME,
     horario_cierre TIME,
     ruta_id INT NOT NULL,
+    
     CONSTRAINT fk_ruta_id FOREIGN KEY (ruta_id) REFERENCES ruta(ruta_id)
 );
 

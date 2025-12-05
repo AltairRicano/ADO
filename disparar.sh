@@ -29,7 +29,6 @@ cat \
   14_favorito.sql \
   15_corrida.sql \
   16_cortesia.sql \
-  almacenado.sql \
   | docker exec -i $CONTAINER psql -U $USER -d $DB
 
 # 4. Mensaje final
